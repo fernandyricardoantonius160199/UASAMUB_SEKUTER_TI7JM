@@ -1,0 +1,78 @@
+{
+  "Pengguna" : {
+    "febri" : {
+      "alamat_email" : "febriansyah010199@gmail.com",
+      "jenis_kelamin" : "Pria",
+      "kata_sandi" : "febri",
+      "nama_lengkap" : "Febriansyah",
+      "nama_pengguna" : "febri",
+      "no_handphone" : "085212342580",
+      "uang_sekarang" : 500000,
+      "url_foto_profil" : "https://firebasestorage.googleapis.com/v0/b/uasamub-sekuter-ti7jm.appspot.com/o/FotoProfil%2F1610444018546.png?alt=media&token=e7894db0-32e0-484c-856a-b9f09aad0b1b"
+    },
+    "jimmy" : {
+      "alamat_email" : "jimmysyibli@gmail.com",
+      "jenis_kelamin" : "Pria",
+      "kata_sandi" : "jimmy",
+      "nama_lengkap" : "Jimmy Syibli",
+      "nama_pengguna" : "jimmy",
+      "no_handphone" : "087752336969",
+      "uang_sekarang" : 500000,
+      "url_foto_profil" : "https://firebasestorage.googleapis.com/v0/b/uasamub-sekuter-ti7jm.appspot.com/o/FotoProfil%2F1610443977109.png?alt=media&token=affd5df5-32cb-40ea-b99d-a16a3e75a143"
+    },
+    "nandi" : {
+      "alamat_email" : "fernandy160199@gmail.com",
+      "jenis_kelamin" : "Pria",
+      "kata_sandi" : "nandi",
+      "nama_lengkap" : "Fernandy Ricardo A",
+      "nama_pengguna" : "nandi",
+      "no_handphone" : "085170318138",
+      "uang_sekarang" : 500000,
+      "url_foto_profil" : "https://firebasestorage.googleapis.com/v0/b/uasamub-sekuter-ti7jm.appspot.com/o/FotoProfil%2F1610443655712.png?alt=media&token=2884b8bc-1109-4771-871a-360a9e5732c1"
+    },
+    "nizar" : {
+      "alamat_email" : "nizaryahya122@gmail.com",
+      "jenis_kelamin" : "Pria",
+      "kata_sandi" : "nizar",
+      "nama_lengkap" : "Nizar Yahya",
+      "nama_pengguna" : "nizar",
+      "no_handphone" : "0852123445678",
+      "uang_sekarang" : 500000,
+      "url_foto_profil" : "https://firebasestorage.googleapis.com/v0/b/uasamub-sekuter-ti7jm.appspot.com/o/FotoProfil%2F1610443933979.png?alt=media&token=7fc5af74-2071-409a-8f62-fecf0ebc9b71"
+    }
+  },
+  "PesertaKursus" : {
+    "Febriansyah" : {
+      "alamat_email_peserta" : "febriansyah010199@gmail.com",
+      "biaya_kursus" : 200000,
+      "jenis_kelamin_peserta" : "Pria",
+      "mata_kursus" : "Ms. Word",
+      "nama_lengkap_peserta" : "Febriansyah",
+      "no_handphone_peserta" : "085233669999"
+    },
+    "Fernandy Ricardo Antonius" : {
+      "alamat_email_peserta" : "fernandy160199@gmail.com",
+      "biaya_kursus" : 200000,
+      "jenis_kelamin_peserta" : "Pria",
+      "mata_kursus" : "Ms. Powerpoint",
+      "nama_lengkap_peserta" : "Fernandy Ricardo Antonius",
+      "no_handphone_peserta" : "085170318138"
+    },
+    "Jimmy Syibli" : {
+      "alamat_email_peserta" : "jimmy@gmail.com",
+      "biaya_kursus" : 200000,
+      "jenis_kelamin_peserta" : "Pria",
+      "mata_kursus" : "Ms. Access",
+      "nama_lengkap_peserta" : "Jimmy Syibli",
+      "no_handphone_peserta" : "087788995522"
+    },
+    "Nizar Yahya" : {
+      "alamat_email_peserta" : "nizaryahya122@gmail.com",
+      "biaya_kursus" : 200000,
+      "jenis_kelamin_peserta" : "Pria",
+      "mata_kursus" : "Ms. Excel",
+      "nama_lengkap_peserta" : "Nizar Yahya",
+      "no_handphone_peserta" : "089933661122"
+    }
+  }
+}
