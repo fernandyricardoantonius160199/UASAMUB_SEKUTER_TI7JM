@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/vector_background"
-    tools:context=".PengajarActivity">
+    tools:context=".JadwalActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -16,7 +16,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Pengajar\n Kursus Komputer"
+            android:text="Jadwal\n Kursus Komputer"
             android:gravity="center"
             android:layout_marginTop="50dp"
             android:textSize="20dp"/>
@@ -26,27 +26,27 @@
             android:layout_width="match_parent"
             android:layout_height="103dp"
             android:layout_marginTop="50dp"
-            app:srcCompat="@drawable/fernandi" />
+            app:srcCompat="@drawable/sabtu_pagi" />
 
         <ImageView
             android:id="@+id/imageView2"
             android:layout_width="match_parent"
             android:layout_height="103dp"
             android:layout_marginTop="10dp"
-            app:srcCompat="@drawable/nizar" />
+            app:srcCompat="@drawable/sabtu_siang" />
 
         <ImageView
             android:id="@+id/imageView3"
             android:layout_width="match_parent"
             android:layout_height="103dp"
-            app:srcCompat="@drawable/jimmy"
+            app:srcCompat="@drawable/minggu_pagi"
             android:layout_marginTop="10dp"/>
 
         <ImageView
             android:id="@+id/imageView4"
             android:layout_width="match_parent"
             android:layout_height="103dp"
-            app:srcCompat="@drawable/febri"
+            app:srcCompat="@drawable/minggu_siang"
             android:layout_marginTop="10dp"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
