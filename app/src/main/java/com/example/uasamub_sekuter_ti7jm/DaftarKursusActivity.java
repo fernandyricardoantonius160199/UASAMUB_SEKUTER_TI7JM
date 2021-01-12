@@ -68,7 +68,7 @@ public class DaftarKursusActivity extends AppCompatActivity {
                     }
                 });
                 //berpindah activity
-                Intent gotonextregister = new Intent(DaftarKursusActivity.this, SuccessRegisterActivity.class);
+                Intent gotonextregister = new Intent(DaftarKursusActivity.this, BerhasilDaftarKursusActivity.class);
                 startActivity(gotonextregister);
 
             }
