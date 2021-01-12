@@ -12,7 +12,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UASAMUB_SEKUTER_TI7JM">
-        <activity android:name=".JadwalActivity"></activity>
+        <activity android:name=".BerhasilDaftarKursusActivity"></activity>
+        <activity android:name=".DaftarKursusActivity" />
+        <activity android:name=".JadwalActivity" />
         <activity android:name=".SuccessRegisterActivity" />
         <activity android:name=".PengajarActivity" />
         <activity android:name=".RegisterTwoActivity" />
