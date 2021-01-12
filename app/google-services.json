@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854912345557",
+    "firebase_url": "https://uasamub-sekuter-ti7jm-default-rtdb.firebaseio.com",
+    "project_id": "uasamub-sekuter-ti7jm",
+    "storage_bucket": "uasamub-sekuter-ti7jm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854912345557:android:0a5b64c4c206b2df86495c",
+        "android_client_info": {
+          "package_name": "com.example.uasamub_sekuter_ti7jm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854912345557-bb2lhr9jun8omq9tpjss9itiqsnu59hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZLf12PxpY9mHHIcwS1rZfUCK4lJtnoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854912345557-bb2lhr9jun8omq9tpjss9itiqsnu59hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
